@@ -1,8 +1,8 @@
 # Links
 * https://github.com/geeolives/project_final2_olivares_gisel
-* Link to project on webhost 
-* W3C Validator Link Here
-* HTML5 Outliner Link Here
+* http://geeolives.com/project_final2_olivares_gisel/
+* https://validator.w3.org/nu/?doc=http%3A%2F%2Fgeeolives.com%2Fproject_final2_olivares_gisel%2F
+* https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fgeeolives.com%2Fproject_final2_olivares_gisel%2F
 
 # Resources
 * https://spin.atomicobject.com/2015/07/14/css-responsive-square/ <-- Used the code on this site to create squares for my color swatches. 
