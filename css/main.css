@@ -26,7 +26,8 @@ h1 {
 
 main {
     padding: 10px;
-    width: 100%;
+    width: 550px;
+    float: left;
 }
 
 h3 {
@@ -40,7 +41,13 @@ p {
     font-size: 0.75em;
 }
 
-a.button {
-    opacity: 0.1;
-    filter: alpha(opacity=10);
+aside {
+    width: 300px;
+    float: right;
+    padding: 10px;
+}
+
+h2 {
+    font-family: "authenticratatouille";
+    font-size: 1.75em;
 }
