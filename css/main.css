@@ -30,6 +30,14 @@ main {
     float: left;
 }
 
+a {
+    color: #bf1e2e;
+}
+
+a:hover {
+    color: #e9a252;
+}
+
 h3 {
     color: #103853;
     font-family: "restaurant";
@@ -50,4 +58,40 @@ aside {
 h2 {
     font-family: "authenticratatouille";
     font-size: 1.75em;
+}
+
+.square1 {
+    position: relative;
+    width: 50%;
+    background-color: #bf1e2e;
+}
+
+.square1::after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+}
+
+.square2 {
+    position: relative;
+    width: 50%;
+    background-color: #e9a252;
+}
+
+.square2::after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+}
+
+.square3 {
+    position: relative;
+    width: 50%;
+    background-color: #103853;
+}
+
+.square3::after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
 }
