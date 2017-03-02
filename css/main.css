@@ -42,6 +42,15 @@ main h2 {
     font-size: 1.75em;
 }
 
+.button {
+    display:block;
+    background:url(img/button1.png);
+    position:relative;
+}
+.button:hover {
+    opacity:0.5;
+}
+
 a {
     color: #bf1e2e;
 }
