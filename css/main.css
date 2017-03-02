@@ -17,11 +17,11 @@ body {
     margin: 25px;
 }
 
-header {
+h1 {
     padding: 10px;
     font-family: "authenticratatouille";
     color: #e9a252;
-    font-size: 1.25em;
+    font-size: 3em;
 }
 
 main {
