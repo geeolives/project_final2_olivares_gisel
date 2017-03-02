@@ -125,3 +125,15 @@ aside h2 {
     display: block;
     padding-bottom: 100%;
 }
+
+@media (min-width: 1000px) {
+    main {
+        float: left;
+        width: calc(100% / 3 * 2);
+    }
+
+    aside {
+        float: right;
+        width: calc(100% / 3);
+    }
+}
