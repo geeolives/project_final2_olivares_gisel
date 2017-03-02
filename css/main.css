@@ -5,7 +5,7 @@ html {
 body {
     background-color: #fcf5ed;
     font-family: "Lato", sans-serif;
-    font-size: 0.75em;
+    font-size: 0.85em;
 }
 
 @font-face {
@@ -32,7 +32,7 @@ h1 {
 
 main {
     padding: 10px;
-    width: 55%;
+    width: 60%;
     float: left;
 }
 
@@ -69,8 +69,10 @@ aside h2 {
 
 .square1 {
     position: relative;
-    width: 50%;
+    width: 30%;
     background-color: #bf1e2e;
+    float: left;
+    margin-bottom: 20px;
 }
 
 .square1::after {
@@ -81,8 +83,10 @@ aside h2 {
 
 .square2 {
     position: relative;
-    width: 50%;
+    width: 30%;
     background-color: #e9a252;
+    float: left;
+    margin-bottom: 20px;
 }
 
 .square2::after {
@@ -93,8 +97,10 @@ aside h2 {
 
 .square3 {
     position: relative;
-    width: 50%;
+    width: 30%;
     background-color: #103853;
+    float: left;
+    margin-bottom: 20px;
 }
 
 .square3::after {
