@@ -4,6 +4,8 @@ html {
 
 body {
     background-color: #fcf5ed;
+    font-family: "Lato", sans-serif;
+    font-size: 0.75em;
 }
 
 @font-face {
@@ -34,6 +36,12 @@ main {
     float: left;
 }
 
+main h2 {
+    color: #bf1e2e;
+    font-family: "restaurant";
+    font-size: 1.75em;
+}
+
 a {
     color: #bf1e2e;
 }
@@ -48,18 +56,13 @@ h3 {
     font-size: 1.75em;
 }
 
-p {
-    font-family: "Lato", sans-serif;
-    font-size: 0.75em;
-}
-
 aside {
     width: 30%;
     float: right;
     padding: 10px;
 }
 
-h2 {
+aside h2 {
     font-family: "authenticratatouille";
     font-size: 1.75em;
 }
